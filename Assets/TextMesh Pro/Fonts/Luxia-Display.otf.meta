@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eababcb0e26a6324c98307e488e2d856
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Luxia
+  fontNames:
+  - Luxia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 927f91fa651a86f48a395c372d746a6e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

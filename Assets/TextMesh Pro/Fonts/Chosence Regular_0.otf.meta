@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5d9771d73ee47c141ace62ca7d6520c5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chosence
+  fontNames:
+  - Chosence
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 572544c15b560b546b370aa2a194e35f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

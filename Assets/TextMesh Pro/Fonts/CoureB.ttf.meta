@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ec0cd8f622483144fa20bbf5bca978a4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Courier10 BT
+  fontNames:
+  - Courier10 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dfba60e09d7351541b66e508f0dc6bca, type: 3}
+  - {fileID: 12800000, guid: 778cdc15cb6838a46ad22a9f81b531b2, type: 3}
+  - {fileID: 12800000, guid: a3f727c65f880ba43a254b61eb6f4316, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

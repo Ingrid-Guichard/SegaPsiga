@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8c812f2c260ed8c409a49cc68592e649
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Myriad Arabic
+  fontNames:
+  - Myriad Arabic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c51b7f56d4b01c4fb9cbdc952b96d0c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

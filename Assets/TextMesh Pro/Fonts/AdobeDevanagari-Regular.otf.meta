@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bc23d720301cec2468be0443c71980bb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adobe Devanagari
+  fontNames:
+  - Adobe Devanagari
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8f88f98107781294b9a62bf380701b35, type: 3}
+  - {fileID: 12800000, guid: b42bd935366b75e478e50665f8fedbc5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 85574cefd0d0e72468a96ede4b740a4c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sukro
+  fontNames:
+  - Sukro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3387d34f92e88c344a9ecb3b5ff49e20, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

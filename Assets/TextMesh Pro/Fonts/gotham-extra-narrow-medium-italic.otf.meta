@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: a79324aa7b0364641882bd900637f4d7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gotham XNarrow
+  fontNames:
+  - Gotham XNarrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 39b43665ee6c1f045ab29face38fba46, type: 3}
+  - {fileID: 12800000, guid: 1f6d1a06540e33d409f8d5caf00a6968, type: 3}
+  - {fileID: 12800000, guid: 6428789a6c5f7cc4385a2834de4c5e14, type: 3}
+  - {fileID: 12800000, guid: a235780d136875e4c8da3403069b313f, type: 3}
+  - {fileID: 12800000, guid: 901ba8fe632934646bde7061e2c52b07, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

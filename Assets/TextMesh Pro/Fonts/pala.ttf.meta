@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b30e56a1b11b4dc4c8cd3ffefcc5945d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Palatino Linotype
+  fontNames:
+  - Palatino Linotype
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77a07d6082560044fb84d5418a16610d, type: 3}
+  - {fileID: 12800000, guid: 2cbfc3ef4f49f4347bd2af99da3a5e99, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

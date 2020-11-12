@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c5c67efaa8d0173438190c2dd649e2d0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Myriad Hebrew
+  fontNames:
+  - Myriad Hebrew
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7dfbd0dccd4161c418fe6d1437b2343b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

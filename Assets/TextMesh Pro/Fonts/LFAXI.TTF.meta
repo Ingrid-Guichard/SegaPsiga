@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fcd1d9974bb978b4783eecb7fe595c31
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lucida Fax
+  fontNames:
+  - Lucida Fax
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63d3aa80f16d30b4e893debf68f53378, type: 3}
+  - {fileID: 12800000, guid: cb687f620eecbd843ba34f5d257b7306, type: 3}
+  - {fileID: 12800000, guid: 013f78c42b7b3c94580c01f37a2329ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

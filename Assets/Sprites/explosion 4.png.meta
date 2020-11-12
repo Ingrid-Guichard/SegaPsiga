@@ -1,0 +1,5670 @@
+fileFormatVersion: 2
+guid: fef0f950bd187ee42958acef20a46528
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: explosion 4_0
+  - first:
+      213: 21300002
+    second: explosion 4_1
+  - first:
+      213: 21300004
+    second: explosion 4_2
+  - first:
+      213: 21300006
+    second: explosion 4_3
+  - first:
+      213: 21300008
+    second: explosion 4_4
+  - first:
+      213: 21300010
+    second: explosion 4_5
+  - first:
+      213: 21300012
+    second: explosion 4_6
+  - first:
+      213: 21300014
+    second: explosion 4_7
+  - first:
+      213: 21300016
+    second: explosion 4_8
+  - first:
+      213: 21300018
+    second: explosion 4_9
+  - first:
+      213: 21300020
+    second: explosion 4_10
+  - first:
+      213: 21300022
+    second: explosion 4_11
+  - first:
+      213: 21300024
+    second: explosion 4_12
+  - first:
+      213: 21300026
+    second: explosion 4_13
+  - first:
+      213: 21300028
+    second: explosion 4_14
+  - first:
+      213: 21300030
+    second: explosion 4_15
+  - first:
+      213: 21300032
+    second: explosion 4_16
+  - first:
+      213: 21300034
+    second: explosion 4_17
+  - first:
+      213: 21300036
+    second: explosion 4_18
+  - first:
+      213: 21300038
+    second: explosion 4_19
+  - first:
+      213: 21300040
+    second: explosion 4_20
+  - first:
+      213: 21300042
+    second: explosion 4_21
+  - first:
+      213: 21300044
+    second: explosion 4_22
+  - first:
+      213: 21300046
+    second: explosion 4_23
+  - first:
+      213: 21300048
+    second: explosion 4_24
+  - first:
+      213: 21300050
+    second: explosion 4_25
+  - first:
+      213: 21300052
+    second: explosion 4_26
+  - first:
+      213: 21300054
+    second: explosion 4_27
+  - first:
+      213: 21300056
+    second: explosion 4_28
+  - first:
+      213: 21300058
+    second: explosion 4_29
+  - first:
+      213: 21300060
+    second: explosion 4_30
+  - first:
+      213: 21300062
+    second: explosion 4_31
+  - first:
+      213: 21300064
+    second: explosion 4_32
+  - first:
+      213: 21300066
+    second: explosion 4_33
+  - first:
+      213: 21300068
+    second: explosion 4_34
+  - first:
+      213: 21300070
+    second: explosion 4_35
+  - first:
+      213: 21300072
+    second: explosion 4_36
+  - first:
+      213: 21300074
+    second: explosion 4_37
+  - first:
+      213: 21300076
+    second: explosion 4_38
+  - first:
+      213: 21300078
+    second: explosion 4_39
+  - first:
+      213: 21300080
+    second: explosion 4_40
+  - first:
+      213: 21300082
+    second: explosion 4_41
+  - first:
+      213: 21300084
+    second: explosion 4_42
+  - first:
+      213: 21300086
+    second: explosion 4_43
+  - first:
+      213: 21300088
+    second: explosion 4_44
+  - first:
+      213: 21300090
+    second: explosion 4_45
+  - first:
+      213: 21300092
+    second: explosion 4_46
+  - first:
+      213: 21300094
+    second: explosion 4_47
+  - first:
+      213: 21300096
+    second: explosion 4_48
+  - first:
+      213: 21300098
+    second: explosion 4_49
+  - first:
+      213: 21300100
+    second: explosion 4_50
+  - first:
+      213: 21300102
+    second: explosion 4_51
+  - first:
+      213: 21300104
+    second: explosion 4_52
+  - first:
+      213: 21300106
+    second: explosion 4_53
+  - first:
+      213: 21300108
+    second: explosion 4_54
+  - first:
+      213: 21300110
+    second: explosion 4_55
+  - first:
+      213: 21300112
+    second: explosion 4_56
+  - first:
+      213: 21300114
+    second: explosion 4_57
+  - first:
+      213: 21300116
+    second: explosion 4_58
+  - first:
+      213: 21300118
+    second: explosion 4_59
+  - first:
+      213: 21300120
+    second: explosion 4_60
+  - first:
+      213: 21300122
+    second: explosion 4_61
+  - first:
+      213: 21300124
+    second: explosion 4_62
+  - first:
+      213: 21300126
+    second: explosion 4_63
+  - first:
+      213: 21300128
+    second: explosion 4_64
+  - first:
+      213: 21300130
+    second: explosion 4_65
+  - first:
+      213: 21300132
+    second: explosion 4_66
+  - first:
+      213: 21300134
+    second: explosion 4_67
+  - first:
+      213: 21300136
+    second: explosion 4_68
+  - first:
+      213: 21300138
+    second: explosion 4_69
+  - first:
+      213: 21300140
+    second: explosion 4_70
+  - first:
+      213: 21300142
+    second: explosion 4_71
+  - first:
+      213: 21300144
+    second: explosion 4_72
+  - first:
+      213: 21300146
+    second: explosion 4_73
+  - first:
+      213: 21300148
+    second: explosion 4_74
+  - first:
+      213: 21300150
+    second: explosion 4_75
+  - first:
+      213: 21300152
+    second: explosion 4_76
+  - first:
+      213: 21300154
+    second: explosion 4_77
+  - first:
+      213: 21300156
+    second: explosion 4_78
+  - first:
+      213: 21300158
+    second: explosion 4_79
+  - first:
+      213: 21300160
+    second: explosion 4_80
+  - first:
+      213: 21300162
+    second: explosion 4_81
+  - first:
+      213: 21300164
+    second: explosion 4_82
+  - first:
+      213: 21300166
+    second: explosion 4_83
+  - first:
+      213: 21300168
+    second: explosion 4_84
+  - first:
+      213: 21300170
+    second: explosion 4_85
+  - first:
+      213: 21300172
+    second: explosion 4_86
+  - first:
+      213: 21300174
+    second: explosion 4_87
+  - first:
+      213: 21300176
+    second: explosion 4_88
+  - first:
+      213: 21300178
+    second: explosion 4_89
+  - first:
+      213: 21300180
+    second: explosion 4_90
+  - first:
+      213: 21300182
+    second: explosion 4_91
+  - first:
+      213: 21300184
+    second: explosion 4_92
+  - first:
+      213: 21300186
+    second: explosion 4_93
+  - first:
+      213: 21300188
+    second: explosion 4_94
+  - first:
+      213: 21300190
+    second: explosion 4_95
+  - first:
+      213: 21300192
+    second: explosion 4_96
+  - first:
+      213: 21300194
+    second: explosion 4_97
+  - first:
+      213: 21300196
+    second: explosion 4_98
+  - first:
+      213: 21300198
+    second: explosion 4_99
+  - first:
+      213: 21300200
+    second: explosion 4_100
+  - first:
+      213: 21300202
+    second: explosion 4_101
+  - first:
+      213: 21300204
+    second: explosion 4_102
+  - first:
+      213: 21300206
+    second: explosion 4_103
+  - first:
+      213: 21300208
+    second: explosion 4_104
+  - first:
+      213: 21300210
+    second: explosion 4_105
+  - first:
+      213: 21300212
+    second: explosion 4_106
+  - first:
+      213: 21300214
+    second: explosion 4_107
+  - first:
+      213: 21300216
+    second: explosion 4_108
+  - first:
+      213: 21300218
+    second: explosion 4_109
+  - first:
+      213: 21300220
+    second: explosion 4_110
+  - first:
+      213: 21300222
+    second: explosion 4_111
+  - first:
+      213: 21300224
+    second: explosion 4_112
+  - first:
+      213: 21300226
+    second: explosion 4_113
+  - first:
+      213: 21300228
+    second: explosion 4_114
+  - first:
+      213: 21300230
+    second: explosion 4_115
+  - first:
+      213: 21300232
+    second: explosion 4_116
+  - first:
+      213: 21300234
+    second: explosion 4_117
+  - first:
+      213: 21300236
+    second: explosion 4_118
+  - first:
+      213: 21300238
+    second: explosion 4_119
+  - first:
+      213: 21300240
+    second: explosion 4_120
+  - first:
+      213: 21300242
+    second: explosion 4_121
+  - first:
+      213: 21300244
+    second: explosion 4_122
+  - first:
+      213: 21300246
+    second: explosion 4_123
+  - first:
+      213: 21300248
+    second: explosion 4_124
+  - first:
+      213: 21300250
+    second: explosion 4_125
+  - first:
+      213: 21300252
+    second: explosion 4_126
+  - first:
+      213: 21300254
+    second: explosion 4_127
+  - first:
+      213: 21300256
+    second: explosion 4_128
+  - first:
+      213: 21300258
+    second: explosion 4_129
+  - first:
+      213: 21300260
+    second: explosion 4_130
+  - first:
+      213: 21300262
+    second: explosion 4_131
+  - first:
+      213: 21300264
+    second: explosion 4_132
+  - first:
+      213: 21300266
+    second: explosion 4_133
+  - first:
+      213: 21300268
+    second: explosion 4_134
+  - first:
+      213: 21300270
+    second: explosion 4_135
+  - first:
+      213: 21300272
+    second: explosion 4_136
+  - first:
+      213: 21300274
+    second: explosion 4_137
+  - first:
+      213: 21300276
+    second: explosion 4_138
+  - first:
+      213: 21300278
+    second: explosion 4_139
+  - first:
+      213: 21300280
+    second: explosion 4_140
+  - first:
+      213: 21300282
+    second: explosion 4_141
+  - first:
+      213: 21300284
+    second: explosion 4_142
+  - first:
+      213: 21300286
+    second: explosion 4_143
+  - first:
+      213: 21300288
+    second: explosion 4_144
+  - first:
+      213: 21300290
+    second: explosion 4_145
+  - first:
+      213: 21300292
+    second: explosion 4_146
+  - first:
+      213: 21300294
+    second: explosion 4_147
+  - first:
+      213: 21300296
+    second: explosion 4_148
+  - first:
+      213: 21300298
+    second: explosion 4_149
+  - first:
+      213: 21300300
+    second: explosion 4_150
+  - first:
+      213: 21300302
+    second: explosion 4_151
+  - first:
+      213: 21300304
+    second: explosion 4_152
+  - first:
+      213: 21300306
+    second: explosion 4_153
+  - first:
+      213: 21300308
+    second: explosion 4_154
+  - first:
+      213: 21300310
+    second: explosion 4_155
+  - first:
+      213: 21300312
+    second: explosion 4_156
+  - first:
+      213: 21300314
+    second: explosion 4_157
+  - first:
+      213: 21300316
+    second: explosion 4_158
+  - first:
+      213: 21300318
+    second: explosion 4_159
+  - first:
+      213: 21300320
+    second: explosion 4_160
+  - first:
+      213: 21300322
+    second: explosion 4_161
+  - first:
+      213: 21300324
+    second: explosion 4_162
+  - first:
+      213: 21300326
+    second: explosion 4_163
+  - first:
+      213: 21300328
+    second: explosion 4_164
+  - first:
+      213: 21300330
+    second: explosion 4_165
+  - first:
+      213: 21300332
+    second: explosion 4_166
+  - first:
+      213: 21300334
+    second: explosion 4_167
+  - first:
+      213: 21300336
+    second: explosion 4_168
+  - first:
+      213: 21300338
+    second: explosion 4_169
+  - first:
+      213: 21300340
+    second: explosion 4_170
+  - first:
+      213: 21300342
+    second: explosion 4_171
+  - first:
+      213: 21300344
+    second: explosion 4_172
+  - first:
+      213: 21300346
+    second: explosion 4_173
+  - first:
+      213: 21300348
+    second: explosion 4_174
+  - first:
+      213: 21300350
+    second: explosion 4_175
+  - first:
+      213: 21300352
+    second: explosion 4_176
+  - first:
+      213: 21300354
+    second: explosion 4_177
+  - first:
+      213: 21300356
+    second: explosion 4_178
+  - first:
+      213: 21300358
+    second: explosion 4_179
+  - first:
+      213: 21300360
+    second: explosion 4_180
+  - first:
+      213: 21300362
+    second: explosion 4_181
+  - first:
+      213: 21300364
+    second: explosion 4_182
+  - first:
+      213: 21300366
+    second: explosion 4_183
+  - first:
+      213: 21300368
+    second: explosion 4_184
+  - first:
+      213: 21300370
+    second: explosion 4_185
+  - first:
+      213: 21300372
+    second: explosion 4_186
+  - first:
+      213: 21300374
+    second: explosion 4_187
+  - first:
+      213: 21300376
+    second: explosion 4_188
+  - first:
+      213: 21300378
+    second: explosion 4_189
+  - first:
+      213: 21300380
+    second: explosion 4_190
+  - first:
+      213: 21300382
+    second: explosion 4_191
+  - first:
+      213: 21300384
+    second: explosion 4_192
+  - first:
+      213: 21300386
+    second: explosion 4_193
+  - first:
+      213: 21300388
+    second: explosion 4_194
+  - first:
+      213: 21300390
+    second: explosion 4_195
+  - first:
+      213: 21300392
+    second: explosion 4_196
+  - first:
+      213: 21300394
+    second: explosion 4_197
+  - first:
+      213: 21300396
+    second: explosion 4_198
+  - first:
+      213: 21300398
+    second: explosion 4_199
+  - first:
+      213: 21300400
+    second: explosion 4_200
+  - first:
+      213: 21300402
+    second: explosion 4_201
+  - first:
+      213: 21300404
+    second: explosion 4_202
+  - first:
+      213: 21300406
+    second: explosion 4_203
+  - first:
+      213: 21300408
+    second: explosion 4_204
+  - first:
+      213: 21300410
+    second: explosion 4_205
+  - first:
+      213: 21300412
+    second: explosion 4_206
+  - first:
+      213: 21300414
+    second: explosion 4_207
+  - first:
+      213: 21300416
+    second: explosion 4_208
+  - first:
+      213: 21300418
+    second: explosion 4_209
+  - first:
+      213: 21300420
+    second: explosion 4_210
+  - first:
+      213: 21300422
+    second: explosion 4_211
+  - first:
+      213: 21300424
+    second: explosion 4_212
+  - first:
+      213: 21300426
+    second: explosion 4_213
+  - first:
+      213: 21300428
+    second: explosion 4_214
+  - first:
+      213: 21300430
+    second: explosion 4_215
+  - first:
+      213: 21300432
+    second: explosion 4_216
+  - first:
+      213: 21300434
+    second: explosion 4_217
+  - first:
+      213: 21300436
+    second: explosion 4_218
+  - first:
+      213: 21300438
+    second: explosion 4_219
+  - first:
+      213: 21300440
+    second: explosion 4_220
+  - first:
+      213: 21300442
+    second: explosion 4_221
+  - first:
+      213: 21300444
+    second: explosion 4_222
+  - first:
+      213: 21300446
+    second: explosion 4_223
+  - first:
+      213: 21300448
+    second: explosion 4_224
+  - first:
+      213: 21300450
+    second: explosion 4_225
+  - first:
+      213: 21300452
+    second: explosion 4_226
+  - first:
+      213: 21300454
+    second: explosion 4_227
+  - first:
+      213: 21300456
+    second: explosion 4_228
+  - first:
+      213: 21300458
+    second: explosion 4_229
+  - first:
+      213: 21300460
+    second: explosion 4_230
+  - first:
+      213: 21300462
+    second: explosion 4_231
+  - first:
+      213: 21300464
+    second: explosion 4_232
+  - first:
+      213: 21300466
+    second: explosion 4_233
+  - first:
+      213: 21300468
+    second: explosion 4_234
+  - first:
+      213: 21300470
+    second: explosion 4_235
+  - first:
+      213: 21300472
+    second: explosion 4_236
+  - first:
+      213: 21300474
+    second: explosion 4_237
+  - first:
+      213: 21300476
+    second: explosion 4_238
+  - first:
+      213: 21300478
+    second: explosion 4_239
+  - first:
+      213: 21300480
+    second: explosion 4_240
+  - first:
+      213: 21300482
+    second: explosion 4_241
+  - first:
+      213: 21300484
+    second: explosion 4_242
+  - first:
+      213: 21300486
+    second: explosion 4_243
+  - first:
+      213: 21300488
+    second: explosion 4_244
+  - first:
+      213: 21300490
+    second: explosion 4_245
+  - first:
+      213: 21300492
+    second: explosion 4_246
+  - first:
+      213: 21300494
+    second: explosion 4_247
+  - first:
+      213: 21300496
+    second: explosion 4_248
+  - first:
+      213: 21300498
+    second: explosion 4_249
+  - first:
+      213: 21300500
+    second: explosion 4_250
+  - first:
+      213: 21300502
+    second: explosion 4_251
+  - first:
+      213: 21300504
+    second: explosion 4_252
+  - first:
+      213: 21300506
+    second: explosion 4_253
+  - first:
+      213: 21300508
+    second: explosion 4_254
+  - first:
+      213: 21300510
+    second: explosion 4_255
+  - first:
+      213: 21300512
+    second: explosion 4_256
+  - first:
+      213: 21300514
+    second: explosion 4_257
+  - first:
+      213: 21300516
+    second: explosion 4_258
+  - first:
+      213: 21300518
+    second: explosion 4_259
+  - first:
+      213: 21300520
+    second: explosion 4_260
+  - first:
+      213: 21300522
+    second: explosion 4_261
+  - first:
+      213: 21300524
+    second: explosion 4_262
+  - first:
+      213: 21300526
+    second: explosion 4_263
+  - first:
+      213: 21300528
+    second: explosion 4_264
+  - first:
+      213: 21300530
+    second: explosion 4_265
+  - first:
+      213: 21300532
+    second: explosion 4_266
+  - first:
+      213: 21300534
+    second: explosion 4_267
+  - first:
+      213: 21300536
+    second: explosion 4_268
+  - first:
+      213: 21300538
+    second: explosion 4_269
+  - first:
+      213: 21300540
+    second: explosion 4_270
+  - first:
+      213: 21300542
+    second: explosion 4_271
+  - first:
+      213: 21300544
+    second: explosion 4_272
+  - first:
+      213: 21300546
+    second: explosion 4_273
+  - first:
+      213: 21300548
+    second: explosion 4_274
+  - first:
+      213: 21300550
+    second: explosion 4_275
+  - first:
+      213: 21300552
+    second: explosion 4_276
+  - first:
+      213: 21300554
+    second: explosion 4_277
+  - first:
+      213: 21300556
+    second: explosion 4_278
+  - first:
+      213: 21300558
+    second: explosion 4_279
+  - first:
+      213: 21300560
+    second: explosion 4_280
+  - first:
+      213: 21300562
+    second: explosion 4_281
+  - first:
+      213: 21300564
+    second: explosion 4_282
+  - first:
+      213: 21300566
+    second: explosion 4_283
+  - first:
+      213: 21300568
+    second: explosion 4_284
+  - first:
+      213: 21300570
+    second: explosion 4_285
+  - first:
+      213: 21300572
+    second: explosion 4_286
+  - first:
+      213: 21300574
+    second: explosion 4_287
+  - first:
+      213: 21300576
+    second: explosion 4_288
+  - first:
+      213: 21300578
+    second: explosion 4_289
+  - first:
+      213: 21300580
+    second: explosion 4_290
+  - first:
+      213: 21300582
+    second: explosion 4_291
+  - first:
+      213: 21300584
+    second: explosion 4_292
+  - first:
+      213: 21300586
+    second: explosion 4_293
+  - first:
+      213: 21300588
+    second: explosion 4_294
+  - first:
+      213: 21300590
+    second: explosion 4_295
+  - first:
+      213: 21300592
+    second: explosion 4_296
+  - first:
+      213: 21300594
+    second: explosion 4_297
+  - first:
+      213: 21300596
+    second: explosion 4_298
+  - first:
+      213: 21300598
+    second: explosion 4_299
+  - first:
+      213: 21300600
+    second: explosion 4_300
+  - first:
+      213: 21300602
+    second: explosion 4_301
+  - first:
+      213: 21300604
+    second: explosion 4_302
+  - first:
+      213: 21300606
+    second: explosion 4_303
+  - first:
+      213: 21300608
+    second: explosion 4_304
+  - first:
+      213: 21300610
+    second: explosion 4_305
+  - first:
+      213: 21300612
+    second: explosion 4_306
+  - first:
+      213: 21300614
+    second: explosion 4_307
+  - first:
+      213: 21300616
+    second: explosion 4_308
+  - first:
+      213: 21300618
+    second: explosion 4_309
+  - first:
+      213: 21300620
+    second: explosion 4_310
+  - first:
+      213: 21300622
+    second: explosion 4_311
+  - first:
+      213: 21300624
+    second: explosion 4_312
+  - first:
+      213: 21300626
+    second: explosion 4_313
+  - first:
+      213: 21300628
+    second: explosion 4_314
+  - first:
+      213: 21300630
+    second: explosion 4_315
+  - first:
+      213: 21300632
+    second: explosion 4_316
+  - first:
+      213: 21300634
+    second: explosion 4_317
+  - first:
+      213: 21300636
+    second: explosion 4_318
+  - first:
+      213: 21300638
+    second: explosion 4_319
+  - first:
+      213: 21300640
+    second: explosion 4_320
+  - first:
+      213: 21300642
+    second: explosion 4_321
+  - first:
+      213: 21300644
+    second: explosion 4_322
+  - first:
+      213: 21300646
+    second: explosion 4_323
+  - first:
+      213: 21300648
+    second: explosion 4_324
+  - first:
+      213: 21300650
+    second: explosion 4_325
+  - first:
+      213: 21300652
+    second: explosion 4_326
+  - first:
+      213: 21300654
+    second: explosion 4_327
+  - first:
+      213: 21300656
+    second: explosion 4_328
+  - first:
+      213: 21300658
+    second: explosion 4_329
+  - first:
+      213: 21300660
+    second: explosion 4_330
+  - first:
+      213: 21300662
+    second: explosion 4_331
+  - first:
+      213: 21300664
+    second: explosion 4_332
+  - first:
+      213: 21300666
+    second: explosion 4_333
+  - first:
+      213: 21300668
+    second: explosion 4_334
+  - first:
+      213: 21300670
+    second: explosion 4_335
+  - first:
+      213: 21300672
+    second: explosion 4_336
+  - first:
+      213: 21300674
+    second: explosion 4_337
+  - first:
+      213: 21300676
+    second: explosion 4_338
+  - first:
+      213: 21300678
+    second: explosion 4_339
+  - first:
+      213: 21300680
+    second: explosion 4_340
+  - first:
+      213: 21300682
+    second: explosion 4_341
+  - first:
+      213: 21300684
+    second: explosion 4_342
+  - first:
+      213: 21300686
+    second: explosion 4_343
+  - first:
+      213: 21300688
+    second: explosion 4_344
+  - first:
+      213: 21300690
+    second: explosion 4_345
+  - first:
+      213: 21300692
+    second: explosion 4_346
+  - first:
+      213: 21300694
+    second: explosion 4_347
+  - first:
+      213: 21300696
+    second: explosion 4_348
+  - first:
+      213: 21300698
+    second: explosion 4_349
+  - first:
+      213: 21300700
+    second: explosion 4_350
+  - first:
+      213: 21300702
+    second: explosion 4_351
+  - first:
+      213: 21300704
+    second: explosion 4_352
+  - first:
+      213: 21300706
+    second: explosion 4_353
+  - first:
+      213: 21300708
+    second: explosion 4_354
+  - first:
+      213: 21300710
+    second: explosion 4_355
+  - first:
+      213: 21300712
+    second: explosion 4_356
+  - first:
+      213: 21300714
+    second: explosion 4_357
+  - first:
+      213: 21300716
+    second: explosion 4_358
+  - first:
+      213: 21300718
+    second: explosion 4_359
+  - first:
+      213: 21300720
+    second: explosion 4_360
+  - first:
+      213: 21300722
+    second: explosion 4_361
+  - first:
+      213: 21300724
+    second: explosion 4_362
+  - first:
+      213: 21300726
+    second: explosion 4_363
+  - first:
+      213: 21300728
+    second: explosion 4_364
+  - first:
+      213: 21300730
+    second: explosion 4_365
+  - first:
+      213: 21300732
+    second: explosion 4_366
+  - first:
+      213: 21300734
+    second: explosion 4_367
+  - first:
+      213: 21300736
+    second: explosion 4_368
+  - first:
+      213: 21300738
+    second: explosion 4_369
+  - first:
+      213: 21300740
+    second: explosion 4_370
+  - first:
+      213: 21300742
+    second: explosion 4_371
+  - first:
+      213: 21300744
+    second: explosion 4_372
+  - first:
+      213: 21300746
+    second: explosion 4_373
+  - first:
+      213: 21300748
+    second: explosion 4_374
+  - first:
+      213: 21300750
+    second: explosion 4_375
+  - first:
+      213: 21300752
+    second: explosion 4_376
+  - first:
+      213: 21300754
+    second: explosion 4_377
+  - first:
+      213: 21300756
+    second: explosion 4_378
+  - first:
+      213: 21300758
+    second: explosion 4_379
+  - first:
+      213: 21300760
+    second: explosion 4_380
+  - first:
+      213: 21300762
+    second: explosion 4_381
+  - first:
+      213: 21300764
+    second: explosion 4_382
+  - first:
+      213: 21300766
+    second: explosion 4_383
+  - first:
+      213: 21300768
+    second: explosion 4_384
+  - first:
+      213: 21300770
+    second: explosion 4_385
+  - first:
+      213: 21300772
+    second: explosion 4_386
+  - first:
+      213: 21300774
+    second: explosion 4_387
+  - first:
+      213: 21300776
+    second: explosion 4_388
+  - first:
+      213: 21300778
+    second: explosion 4_389
+  - first:
+      213: 21300780
+    second: explosion 4_390
+  - first:
+      213: 21300782
+    second: explosion 4_391
+  - first:
+      213: 21300784
+    second: explosion 4_392
+  - first:
+      213: 21300786
+    second: explosion 4_393
+  - first:
+      213: 21300788
+    second: explosion 4_394
+  - first:
+      213: 21300790
+    second: explosion 4_395
+  - first:
+      213: 21300792
+    second: explosion 4_396
+  - first:
+      213: 21300794
+    second: explosion 4_397
+  - first:
+      213: 21300796
+    second: explosion 4_398
+  - first:
+      213: 21300798
+    second: explosion 4_399
+  - first:
+      213: 21300800
+    second: explosion 4_400
+  - first:
+      213: 21300802
+    second: explosion 4_401
+  - first:
+      213: 21300804
+    second: explosion 4_402
+  - first:
+      213: 21300806
+    second: explosion 4_403
+  - first:
+      213: 21300808
+    second: explosion 4_404
+  - first:
+      213: 21300810
+    second: explosion 4_405
+  - first:
+      213: 21300812
+    second: explosion 4_406
+  - first:
+      213: 21300814
+    second: explosion 4_407
+  - first:
+      213: 21300816
+    second: explosion 4_408
+  - first:
+      213: 21300818
+    second: explosion 4_409
+  - first:
+      213: 21300820
+    second: explosion 4_410
+  - first:
+      213: 21300822
+    second: explosion 4_411
+  - first:
+      213: 21300824
+    second: explosion 4_412
+  - first:
+      213: 21300826
+    second: explosion 4_413
+  - first:
+      213: 21300828
+    second: explosion 4_414
+  - first:
+      213: 21300830
+    second: explosion 4_415
+  - first:
+      213: 21300832
+    second: explosion 4_416
+  - first:
+      213: 21300834
+    second: explosion 4_417
+  - first:
+      213: 21300836
+    second: explosion 4_418
+  - first:
+      213: 21300838
+    second: explosion 4_419
+  - first:
+      213: 21300840
+    second: explosion 4_420
+  - first:
+      213: 21300842
+    second: explosion 4_421
+  - first:
+      213: 21300844
+    second: explosion 4_422
+  - first:
+      213: 21300846
+    second: explosion 4_423
+  - first:
+      213: 21300848
+    second: explosion 4_424
+  - first:
+      213: 21300850
+    second: explosion 4_425
+  - first:
+      213: 21300852
+    second: explosion 4_426
+  - first:
+      213: 21300854
+    second: explosion 4_427
+  - first:
+      213: 21300856
+    second: explosion 4_428
+  - first:
+      213: 21300858
+    second: explosion 4_429
+  - first:
+      213: 21300860
+    second: explosion 4_430
+  - first:
+      213: 21300862
+    second: explosion 4_431
+  - first:
+      213: 21300864
+    second: explosion 4_432
+  - first:
+      213: 21300866
+    second: explosion 4_433
+  - first:
+      213: 21300868
+    second: explosion 4_434
+  - first:
+      213: 21300870
+    second: explosion 4_435
+  - first:
+      213: 21300872
+    second: explosion 4_436
+  - first:
+      213: 21300874
+    second: explosion 4_437
+  - first:
+      213: 21300876
+    second: explosion 4_438
+  - first:
+      213: 21300878
+    second: explosion 4_439
+  - first:
+      213: 21300880
+    second: explosion 4_440
+  - first:
+      213: 21300882
+    second: explosion 4_441
+  - first:
+      213: 21300884
+    second: explosion 4_442
+  - first:
+      213: 21300886
+    second: explosion 4_443
+  - first:
+      213: 21300888
+    second: explosion 4_444
+  - first:
+      213: 21300890
+    second: explosion 4_445
+  - first:
+      213: 21300892
+    second: explosion 4_446
+  - first:
+      213: 21300894
+    second: explosion 4_447
+  - first:
+      213: 21300896
+    second: explosion 4_448
+  - first:
+      213: 21300898
+    second: explosion 4_449
+  - first:
+      213: 21300900
+    second: explosion 4_450
+  - first:
+      213: 21300902
+    second: explosion 4_451
+  - first:
+      213: 21300904
+    second: explosion 4_452
+  - first:
+      213: 21300906
+    second: explosion 4_453
+  - first:
+      213: 21300908
+    second: explosion 4_454
+  - first:
+      213: 21300910
+    second: explosion 4_455
+  - first:
+      213: 21300912
+    second: explosion 4_456
+  - first:
+      213: 21300914
+    second: explosion 4_457
+  - first:
+      213: 21300916
+    second: explosion 4_458
+  - first:
+      213: 21300918
+    second: explosion 4_459
+  - first:
+      213: 21300920
+    second: explosion 4_460
+  - first:
+      213: 21300922
+    second: explosion 4_461
+  - first:
+      213: 21300924
+    second: explosion 4_462
+  - first:
+      213: 21300926
+    second: explosion 4_463
+  - first:
+      213: 21300928
+    second: explosion 4_464
+  - first:
+      213: 21300930
+    second: explosion 4_465
+  - first:
+      213: 21300932
+    second: explosion 4_466
+  - first:
+      213: 21300934
+    second: explosion 4_467
+  - first:
+      213: 21300936
+    second: explosion 4_468
+  - first:
+      213: 21300938
+    second: explosion 4_469
+  - first:
+      213: 21300940
+    second: explosion 4_470
+  - first:
+      213: 21300942
+    second: explosion 4_471
+  - first:
+      213: 21300944
+    second: explosion 4_472
+  - first:
+      213: 21300946
+    second: explosion 4_473
+  - first:
+      213: 21300948
+    second: explosion 4_474
+  - first:
+      213: 21300950
+    second: explosion 4_475
+  - first:
+      213: 21300952
+    second: explosion 4_476
+  - first:
+      213: 21300954
+    second: explosion 4_477
+  - first:
+      213: 21300956
+    second: explosion 4_478
+  - first:
+      213: 21300958
+    second: explosion 4_479
+  - first:
+      213: 21300960
+    second: explosion 4_480
+  - first:
+      213: 21300962
+    second: explosion 4_481
+  - first:
+      213: 21300964
+    second: explosion 4_482
+  - first:
+      213: 21300966
+    second: explosion 4_483
+  - first:
+      213: 21300968
+    second: explosion 4_484
+  - first:
+      213: 21300970
+    second: explosion 4_485
+  - first:
+      213: 21300972
+    second: explosion 4_486
+  - first:
+      213: 21300974
+    second: explosion 4_487
+  - first:
+      213: 21300976
+    second: explosion 4_488
+  - first:
+      213: 21300978
+    second: explosion 4_489
+  - first:
+      213: 21300980
+    second: explosion 4_490
+  - first:
+      213: 21300982
+    second: explosion 4_491
+  - first:
+      213: 21300984
+    second: explosion 4_492
+  - first:
+      213: 21300986
+    second: explosion 4_493
+  - first:
+      213: 21300988
+    second: explosion 4_494
+  - first:
+      213: 21300990
+    second: explosion 4_495
+  - first:
+      213: 21300992
+    second: explosion 4_496
+  - first:
+      213: 21300994
+    second: explosion 4_497
+  - first:
+      213: 21300996
+    second: explosion 4_498
+  - first:
+      213: 21300998
+    second: explosion 4_499
+  - first:
+      213: 21301000
+    second: explosion 4_500
+  - first:
+      213: 21301002
+    second: explosion 4_501
+  - first:
+      213: 21301004
+    second: explosion 4_502
+  - first:
+      213: 21301006
+    second: explosion 4_503
+  - first:
+      213: 21301008
+    second: explosion 4_504
+  - first:
+      213: 21301010
+    second: explosion 4_505
+  - first:
+      213: 21301012
+    second: explosion 4_506
+  - first:
+      213: 21301014
+    second: explosion 4_507
+  - first:
+      213: 21301016
+    second: explosion 4_508
+  - first:
+      213: 21301018
+    second: explosion 4_509
+  - first:
+      213: 21301020
+    second: explosion 4_510
+  - first:
+      213: 21301022
+    second: explosion 4_511
+  - first:
+      213: 21301024
+    second: explosion 4_512
+  - first:
+      213: 21301026
+    second: explosion 4_513
+  - first:
+      213: 21301028
+    second: explosion 4_514
+  - first:
+      213: 21301030
+    second: explosion 4_515
+  - first:
+      213: 21301032
+    second: explosion 4_516
+  - first:
+      213: 21301034
+    second: explosion 4_517
+  - first:
+      213: 21301036
+    second: explosion 4_518
+  - first:
+      213: 21301038
+    second: explosion 4_519
+  - first:
+      213: 21301040
+    second: explosion 4_520
+  - first:
+      213: 21301042
+    second: explosion 4_521
+  - first:
+      213: 21301044
+    second: explosion 4_522
+  - first:
+      213: 21301046
+    second: explosion 4_523
+  - first:
+      213: 21301048
+    second: explosion 4_524
+  - first:
+      213: 21301050
+    second: explosion 4_525
+  - first:
+      213: 21301052
+    second: explosion 4_526
+  - first:
+      213: 21301054
+    second: explosion 4_527
+  - first:
+      213: 21301056
+    second: explosion 4_528
+  - first:
+      213: 21301058
+    second: explosion 4_529
+  - first:
+      213: 21301060
+    second: explosion 4_530
+  - first:
+      213: 21301062
+    second: explosion 4_531
+  - first:
+      213: 21301064
+    second: explosion 4_532
+  - first:
+      213: 21301066
+    second: explosion 4_533
+  - first:
+      213: 21301068
+    second: explosion 4_534
+  - first:
+      213: 21301070
+    second: explosion 4_535
+  - first:
+      213: 21301072
+    second: explosion 4_536
+  - first:
+      213: 21301074
+    second: explosion 4_537
+  - first:
+      213: 21301076
+    second: explosion 4_538
+  - first:
+      213: 21301078
+    second: explosion 4_539
+  - first:
+      213: 21301080
+    second: explosion 4_540
+  - first:
+      213: 21301082
+    second: explosion 4_541
+  - first:
+      213: 21301084
+    second: explosion 4_542
+  - first:
+      213: 21301086
+    second: explosion 4_543
+  - first:
+      213: 21301088
+    second: explosion 4_544
+  - first:
+      213: 21301090
+    second: explosion 4_545
+  - first:
+      213: 21301092
+    second: explosion 4_546
+  - first:
+      213: 21301094
+    second: explosion 4_547
+  - first:
+      213: 21301096
+    second: explosion 4_548
+  - first:
+      213: 21301098
+    second: explosion 4_549
+  - first:
+      213: 21301100
+    second: explosion 4_550
+  - first:
+      213: 21301102
+    second: explosion 4_551
+  - first:
+      213: 21301104
+    second: explosion 4_552
+  - first:
+      213: 21301106
+    second: explosion 4_553
+  - first:
+      213: 21301108
+    second: explosion 4_554
+  - first:
+      213: 21301110
+    second: explosion 4_555
+  - first:
+      213: 21301112
+    second: explosion 4_556
+  - first:
+      213: 21301114
+    second: explosion 4_557
+  - first:
+      213: 21301116
+    second: explosion 4_558
+  - first:
+      213: 21301118
+    second: explosion 4_559
+  - first:
+      213: 21301120
+    second: explosion 4_560
+  - first:
+      213: 21301122
+    second: explosion 4_561
+  - first:
+      213: 21301124
+    second: explosion 4_562
+  - first:
+      213: 21301126
+    second: explosion 4_563
+  - first:
+      213: 21301128
+    second: explosion 4_564
+  - first:
+      213: 21301130
+    second: explosion 4_565
+  - first:
+      213: 21301132
+    second: explosion 4_566
+  - first:
+      213: 21301134
+    second: explosion 4_567
+  - first:
+      213: 21301136
+    second: explosion 4_568
+  - first:
+      213: 21301138
+    second: explosion 4_569
+  - first:
+      213: 21301140
+    second: explosion 4_570
+  - first:
+      213: 21301142
+    second: explosion 4_571
+  - first:
+      213: 21301144
+    second: explosion 4_572
+  - first:
+      213: 21301146
+    second: explosion 4_573
+  - first:
+      213: 21301148
+    second: explosion 4_574
+  - first:
+      213: 21301150
+    second: explosion 4_575
+  - first:
+      213: 21301152
+    second: explosion 4_576
+  - first:
+      213: 21301154
+    second: explosion 4_577
+  - first:
+      213: 21301156
+    second: explosion 4_578
+  - first:
+      213: 21301158
+    second: explosion 4_579
+  - first:
+      213: 21301160
+    second: explosion 4_580
+  - first:
+      213: 21301162
+    second: explosion 4_581
+  - first:
+      213: 21301164
+    second: explosion 4_582
+  - first:
+      213: 21301166
+    second: explosion 4_583
+  - first:
+      213: 21301168
+    second: explosion 4_584
+  - first:
+      213: 21301170
+    second: explosion 4_585
+  - first:
+      213: 21301172
+    second: explosion 4_586
+  - first:
+      213: 21301174
+    second: explosion 4_587
+  - first:
+      213: 21301176
+    second: explosion 4_588
+  - first:
+      213: 21301178
+    second: explosion 4_589
+  - first:
+      213: 21301180
+    second: explosion 4_590
+  - first:
+      213: 21301182
+    second: explosion 4_591
+  - first:
+      213: 21301184
+    second: explosion 4_592
+  - first:
+      213: 21301186
+    second: explosion 4_593
+  - first:
+      213: 21301188
+    second: explosion 4_594
+  - first:
+      213: 21301190
+    second: explosion 4_595
+  - first:
+      213: 21301192
+    second: explosion 4_596
+  - first:
+      213: 21301194
+    second: explosion 4_597
+  - first:
+      213: 21301196
+    second: explosion 4_598
+  - first:
+      213: 21301198
+    second: explosion 4_599
+  - first:
+      213: 21301200
+    second: explosion 4_600
+  - first:
+      213: 21301202
+    second: explosion 4_601
+  - first:
+      213: 21301204
+    second: explosion 4_602
+  - first:
+      213: 21301206
+    second: explosion 4_603
+  - first:
+      213: 21301208
+    second: explosion 4_604
+  - first:
+      213: 21301210
+    second: explosion 4_605
+  - first:
+      213: 21301212
+    second: explosion 4_606
+  - first:
+      213: 21301214
+    second: explosion 4_607
+  - first:
+      213: 21301216
+    second: explosion 4_608
+  - first:
+      213: 21301218
+    second: explosion 4_609
+  - first:
+      213: 21301220
+    second: explosion 4_610
+  - first:
+      213: 21301222
+    second: explosion 4_611
+  - first:
+      213: 21301224
+    second: explosion 4_612
+  - first:
+      213: 21301226
+    second: explosion 4_613
+  - first:
+      213: 21301228
+    second: explosion 4_614
+  - first:
+      213: 21301230
+    second: explosion 4_615
+  - first:
+      213: 21301232
+    second: explosion 4_616
+  - first:
+      213: 21301234
+    second: explosion 4_617
+  - first:
+      213: 21301236
+    second: explosion 4_618
+  - first:
+      213: 21301238
+    second: explosion 4_619
+  - first:
+      213: 21301240
+    second: explosion 4_620
+  - first:
+      213: 21301242
+    second: explosion 4_621
+  - first:
+      213: 21301244
+    second: explosion 4_622
+  - first:
+      213: 21301246
+    second: explosion 4_623
+  - first:
+      213: 21301248
+    second: explosion 4_624
+  - first:
+      213: 21301250
+    second: explosion 4_625
+  - first:
+      213: 21301252
+    second: explosion 4_626
+  - first:
+      213: 21301254
+    second: explosion 4_627
+  - first:
+      213: 21301256
+    second: explosion 4_628
+  - first:
+      213: 21301258
+    second: explosion 4_629
+  - first:
+      213: 21301260
+    second: explosion 4_630
+  - first:
+      213: 21301262
+    second: explosion 4_631
+  - first:
+      213: 21301264
+    second: explosion 4_632
+  - first:
+      213: 21301266
+    second: explosion 4_633
+  - first:
+      213: 21301268
+    second: explosion 4_634
+  - first:
+      213: 21301270
+    second: explosion 4_635
+  - first:
+      213: 21301272
+    second: explosion 4_636
+  - first:
+      213: 21301274
+    second: explosion 4_637
+  - first:
+      213: 21301276
+    second: explosion 4_638
+  - first:
+      213: 21301278
+    second: explosion 4_639
+  - first:
+      213: 21301280
+    second: explosion 4_640
+  - first:
+      213: 21301282
+    second: explosion 4_641
+  - first:
+      213: 21301284
+    second: explosion 4_642
+  - first:
+      213: 21301286
+    second: explosion 4_643
+  - first:
+      213: 21301288
+    second: explosion 4_644
+  - first:
+      213: 21301290
+    second: explosion 4_645
+  - first:
+      213: 21301292
+    second: explosion 4_646
+  - first:
+      213: 21301294
+    second: explosion 4_647
+  - first:
+      213: 21301296
+    second: explosion 4_648
+  - first:
+      213: 21301298
+    second: explosion 4_649
+  - first:
+      213: 21301300
+    second: explosion 4_650
+  - first:
+      213: 21301302
+    second: explosion 4_651
+  - first:
+      213: 21301304
+    second: explosion 4_652
+  - first:
+      213: 21301306
+    second: explosion 4_653
+  - first:
+      213: 21301308
+    second: explosion 4_654
+  - first:
+      213: 21301310
+    second: explosion 4_655
+  - first:
+      213: 21301312
+    second: explosion 4_656
+  - first:
+      213: 21301314
+    second: explosion 4_657
+  - first:
+      213: 21301316
+    second: explosion 4_658
+  - first:
+      213: 21301318
+    second: explosion 4_659
+  - first:
+      213: 21301320
+    second: explosion 4_660
+  - first:
+      213: 21301322
+    second: explosion 4_661
+  - first:
+      213: 21301324
+    second: explosion 4_662
+  - first:
+      213: 21301326
+    second: explosion 4_663
+  - first:
+      213: 21301328
+    second: explosion 4_664
+  - first:
+      213: 21301330
+    second: explosion 4_665
+  - first:
+      213: 21301332
+    second: explosion 4_666
+  - first:
+      213: 21301334
+    second: explosion 4_667
+  - first:
+      213: 21301336
+    second: explosion 4_668
+  - first:
+      213: 21301338
+    second: explosion 4_669
+  - first:
+      213: 21301340
+    second: explosion 4_670
+  - first:
+      213: 21301342
+    second: explosion 4_671
+  - first:
+      213: 21301344
+    second: explosion 4_672
+  - first:
+      213: 21301346
+    second: explosion 4_673
+  - first:
+      213: 21301348
+    second: explosion 4_674
+  - first:
+      213: 21301350
+    second: explosion 4_675
+  - first:
+      213: 21301352
+    second: explosion 4_676
+  - first:
+      213: 21301354
+    second: explosion 4_677
+  - first:
+      213: 21301356
+    second: explosion 4_678
+  - first:
+      213: 21301358
+    second: explosion 4_679
+  - first:
+      213: 21301360
+    second: explosion 4_680
+  - first:
+      213: 21301362
+    second: explosion 4_681
+  - first:
+      213: 21301364
+    second: explosion 4_682
+  - first:
+      213: 21301366
+    second: explosion 4_683
+  - first:
+      213: 21301368
+    second: explosion 4_684
+  - first:
+      213: 21301370
+    second: explosion 4_685
+  - first:
+      213: 21301372
+    second: explosion 4_686
+  - first:
+      213: 21301374
+    second: explosion 4_687
+  - first:
+      213: 21301376
+    second: explosion 4_688
+  - first:
+      213: 21301378
+    second: explosion 4_689
+  - first:
+      213: 21301380
+    second: explosion 4_690
+  - first:
+      213: 21301382
+    second: explosion 4_691
+  - first:
+      213: 21301384
+    second: explosion 4_692
+  - first:
+      213: 21301386
+    second: explosion 4_693
+  - first:
+      213: 21301388
+    second: explosion 4_694
+  - first:
+      213: 21301390
+    second: explosion 4_695
+  - first:
+      213: 21301392
+    second: explosion 4_696
+  - first:
+      213: 21301394
+    second: explosion 4_697
+  - first:
+      213: 21301396
+    second: explosion 4_698
+  - first:
+      213: 21301398
+    second: explosion 4_699
+  - first:
+      213: 21301400
+    second: explosion 4_700
+  - first:
+      213: 21301402
+    second: explosion 4_701
+  - first:
+      213: 21301404
+    second: explosion 4_702
+  - first:
+      213: 21301406
+    second: explosion 4_703
+  - first:
+      213: 21301408
+    second: explosion 4_704
+  - first:
+      213: 21301410
+    second: explosion 4_705
+  - first:
+      213: 21301412
+    second: explosion 4_706
+  - first:
+      213: 21301414
+    second: explosion 4_707
+  - first:
+      213: 21301416
+    second: explosion 4_708
+  - first:
+      213: 21301418
+    second: explosion 4_709
+  - first:
+      213: 21301420
+    second: explosion 4_710
+  - first:
+      213: 21301422
+    second: explosion 4_711
+  - first:
+      213: 21301424
+    second: explosion 4_712
+  - first:
+      213: 21301426
+    second: explosion 4_713
+  - first:
+      213: 21301428
+    second: explosion 4_714
+  - first:
+      213: 21301430
+    second: explosion 4_715
+  - first:
+      213: 21301432
+    second: explosion 4_716
+  - first:
+      213: 21301434
+    second: explosion 4_717
+  - first:
+      213: 21301436
+    second: explosion 4_718
+  - first:
+      213: 21301438
+    second: explosion 4_719
+  - first:
+      213: 21301440
+    second: explosion 4_720
+  - first:
+      213: 21301442
+    second: explosion 4_721
+  - first:
+      213: 21301444
+    second: explosion 4_722
+  - first:
+      213: 21301446
+    second: explosion 4_723
+  - first:
+      213: 21301448
+    second: explosion 4_724
+  - first:
+      213: 21301450
+    second: explosion 4_725
+  - first:
+      213: 21301452
+    second: explosion 4_726
+  - first:
+      213: 21301454
+    second: explosion 4_727
+  - first:
+      213: 21301456
+    second: explosion 4_728
+  - first:
+      213: 21301458
+    second: explosion 4_729
+  - first:
+      213: 21301460
+    second: explosion 4_730
+  - first:
+      213: 21301462
+    second: explosion 4_731
+  - first:
+      213: 21301464
+    second: explosion 4_732
+  - first:
+      213: 21301466
+    second: explosion 4_733
+  - first:
+      213: 21301468
+    second: explosion 4_734
+  - first:
+      213: 21301470
+    second: explosion 4_735
+  - first:
+      213: 21301472
+    second: explosion 4_736
+  - first:
+      213: 21301474
+    second: explosion 4_737
+  - first:
+      213: 21301476
+    second: explosion 4_738
+  - first:
+      213: 21301478
+    second: explosion 4_739
+  - first:
+      213: 21301480
+    second: explosion 4_740
+  - first:
+      213: 21301482
+    second: explosion 4_741
+  - first:
+      213: 21301484
+    second: explosion 4_742
+  - first:
+      213: 21301486
+    second: explosion 4_743
+  - first:
+      213: 21301488
+    second: explosion 4_744
+  - first:
+      213: 21301490
+    second: explosion 4_745
+  - first:
+      213: 21301492
+    second: explosion 4_746
+  - first:
+      213: 21301494
+    second: explosion 4_747
+  - first:
+      213: 21301496
+    second: explosion 4_748
+  - first:
+      213: 21301498
+    second: explosion 4_749
+  - first:
+      213: 21301500
+    second: explosion 4_750
+  - first:
+      213: 21301502
+    second: explosion 4_751
+  - first:
+      213: 21301504
+    second: explosion 4_752
+  - first:
+      213: 21301506
+    second: explosion 4_753
+  - first:
+      213: 21301508
+    second: explosion 4_754
+  - first:
+      213: 21301510
+    second: explosion 4_755
+  - first:
+      213: 21301512
+    second: explosion 4_756
+  - first:
+      213: 21301514
+    second: explosion 4_757
+  - first:
+      213: 21301516
+    second: explosion 4_758
+  - first:
+      213: 21301518
+    second: explosion 4_759
+  - first:
+      213: 21301520
+    second: explosion 4_760
+  - first:
+      213: 21301522
+    second: explosion 4_761
+  - first:
+      213: 21301524
+    second: explosion 4_762
+  - first:
+      213: 21301526
+    second: explosion 4_763
+  - first:
+      213: 21301528
+    second: explosion 4_764
+  - first:
+      213: 21301530
+    second: explosion 4_765
+  - first:
+      213: 21301532
+    second: explosion 4_766
+  - first:
+      213: 21301534
+    second: explosion 4_767
+  - first:
+      213: 21301536
+    second: explosion 4_768
+  - first:
+      213: 21301538
+    second: explosion 4_769
+  - first:
+      213: 21301540
+    second: explosion 4_770
+  - first:
+      213: 21301542
+    second: explosion 4_771
+  - first:
+      213: 21301544
+    second: explosion 4_772
+  - first:
+      213: 21301546
+    second: explosion 4_773
+  - first:
+      213: 21301548
+    second: explosion 4_774
+  - first:
+      213: 21301550
+    second: explosion 4_775
+  - first:
+      213: 21301552
+    second: explosion 4_776
+  - first:
+      213: 21301554
+    second: explosion 4_777
+  - first:
+      213: 21301556
+    second: explosion 4_778
+  - first:
+      213: 21301558
+    second: explosion 4_779
+  - first:
+      213: 21301560
+    second: explosion 4_780
+  - first:
+      213: 21301562
+    second: explosion 4_781
+  - first:
+      213: 21301564
+    second: explosion 4_782
+  - first:
+      213: 21301566
+    second: explosion 4_783
+  - first:
+      213: 21301568
+    second: explosion 4_784
+  - first:
+      213: 21301570
+    second: explosion 4_785
+  - first:
+      213: 21301572
+    second: explosion 4_786
+  - first:
+      213: 21301574
+    second: explosion 4_787
+  - first:
+      213: 21301576
+    second: explosion 4_788
+  - first:
+      213: 21301578
+    second: explosion 4_789
+  - first:
+      213: 21301580
+    second: explosion 4_790
+  - first:
+      213: 21301582
+    second: explosion 4_791
+  - first:
+      213: 21301584
+    second: explosion 4_792
+  - first:
+      213: 21301586
+    second: explosion 4_793
+  - first:
+      213: 21301588
+    second: explosion 4_794
+  - first:
+      213: 21301590
+    second: explosion 4_795
+  - first:
+      213: 21301592
+    second: explosion 4_796
+  - first:
+      213: 21301594
+    second: explosion 4_797
+  - first:
+      213: 21301596
+    second: explosion 4_798
+  - first:
+      213: 21301598
+    second: explosion 4_799
+  - first:
+      213: 21301600
+    second: explosion 4_800
+  - first:
+      213: 21301602
+    second: explosion 4_801
+  - first:
+      213: 21301604
+    second: explosion 4_802
+  - first:
+      213: 21301606
+    second: explosion 4_803
+  - first:
+      213: 21301608
+    second: explosion 4_804
+  - first:
+      213: 21301610
+    second: explosion 4_805
+  - first:
+      213: 21301612
+    second: explosion 4_806
+  - first:
+      213: 21301614
+    second: explosion 4_807
+  - first:
+      213: 21301616
+    second: explosion 4_808
+  - first:
+      213: 21301618
+    second: explosion 4_809
+  - first:
+      213: 21301620
+    second: explosion 4_810
+  - first:
+      213: 21301622
+    second: explosion 4_811
+  - first:
+      213: 21301624
+    second: explosion 4_812
+  - first:
+      213: 21301626
+    second: explosion 4_813
+  - first:
+      213: 21301628
+    second: explosion 4_814
+  - first:
+      213: 21301630
+    second: explosion 4_815
+  - first:
+      213: 21301632
+    second: explosion 4_816
+  - first:
+      213: 21301634
+    second: explosion 4_817
+  - first:
+      213: 21301636
+    second: explosion 4_818
+  - first:
+      213: 21301638
+    second: explosion 4_819
+  - first:
+      213: 21301640
+    second: explosion 4_820
+  - first:
+      213: 21301642
+    second: explosion 4_821
+  - first:
+      213: 21301644
+    second: explosion 4_822
+  - first:
+      213: 21301646
+    second: explosion 4_823
+  - first:
+      213: 21301648
+    second: explosion 4_824
+  - first:
+      213: 21301650
+    second: explosion 4_825
+  - first:
+      213: 21301652
+    second: explosion 4_826
+  - first:
+      213: 21301654
+    second: explosion 4_827
+  - first:
+      213: 21301656
+    second: explosion 4_828
+  - first:
+      213: 21301658
+    second: explosion 4_829
+  - first:
+      213: 21301660
+    second: explosion 4_830
+  - first:
+      213: 21301662
+    second: explosion 4_831
+  - first:
+      213: 21301664
+    second: explosion 4_832
+  - first:
+      213: 21301666
+    second: explosion 4_833
+  - first:
+      213: 21301668
+    second: explosion 4_834
+  - first:
+      213: 21301670
+    second: explosion 4_835
+  - first:
+      213: 21301672
+    second: explosion 4_836
+  - first:
+      213: 21301674
+    second: explosion 4_837
+  - first:
+      213: 21301676
+    second: explosion 4_838
+  - first:
+      213: 21301678
+    second: explosion 4_839
+  - first:
+      213: 21301680
+    second: explosion 4_840
+  - first:
+      213: 21301682
+    second: explosion 4_841
+  - first:
+      213: 21301684
+    second: explosion 4_842
+  - first:
+      213: 21301686
+    second: explosion 4_843
+  - first:
+      213: 21301688
+    second: explosion 4_844
+  - first:
+      213: 21301690
+    second: explosion 4_845
+  - first:
+      213: 21301692
+    second: explosion 4_846
+  - first:
+      213: 21301694
+    second: explosion 4_847
+  - first:
+      213: 21301696
+    second: explosion 4_848
+  - first:
+      213: 21301698
+    second: explosion 4_849
+  - first:
+      213: 21301700
+    second: explosion 4_850
+  - first:
+      213: 21301702
+    second: explosion 4_851
+  - first:
+      213: 21301704
+    second: explosion 4_852
+  - first:
+      213: 21301706
+    second: explosion 4_853
+  - first:
+      213: 21301708
+    second: explosion 4_854
+  - first:
+      213: 21301710
+    second: explosion 4_855
+  - first:
+      213: 21301712
+    second: explosion 4_856
+  - first:
+      213: 21301714
+    second: explosion 4_857
+  - first:
+      213: 21301716
+    second: explosion 4_858
+  - first:
+      213: 21301718
+    second: explosion 4_859
+  - first:
+      213: 21301720
+    second: explosion 4_860
+  - first:
+      213: 21301722
+    second: explosion 4_861
+  - first:
+      213: 21301724
+    second: explosion 4_862
+  - first:
+      213: 21301726
+    second: explosion 4_863
+  - first:
+      213: 21301728
+    second: explosion 4_864
+  - first:
+      213: 21301730
+    second: explosion 4_865
+  - first:
+      213: 21301732
+    second: explosion 4_866
+  - first:
+      213: 21301734
+    second: explosion 4_867
+  - first:
+      213: 21301736
+    second: explosion 4_868
+  - first:
+      213: 21301738
+    second: explosion 4_869
+  - first:
+      213: 21301740
+    second: explosion 4_870
+  - first:
+      213: 21301742
+    second: explosion 4_871
+  - first:
+      213: 21301744
+    second: explosion 4_872
+  - first:
+      213: 21301746
+    second: explosion 4_873
+  - first:
+      213: 21301748
+    second: explosion 4_874
+  - first:
+      213: 21301750
+    second: explosion 4_875
+  - first:
+      213: 21301752
+    second: explosion 4_876
+  - first:
+      213: 21301754
+    second: explosion 4_877
+  - first:
+      213: 21301756
+    second: explosion 4_878
+  - first:
+      213: 21301758
+    second: explosion 4_879
+  - first:
+      213: 21301760
+    second: explosion 4_880
+  - first:
+      213: 21301762
+    second: explosion 4_881
+  - first:
+      213: 21301764
+    second: explosion 4_882
+  - first:
+      213: 21301766
+    second: explosion 4_883
+  - first:
+      213: 21301768
+    second: explosion 4_884
+  - first:
+      213: 21301770
+    second: explosion 4_885
+  - first:
+      213: 21301772
+    second: explosion 4_886
+  - first:
+      213: 21301774
+    second: explosion 4_887
+  - first:
+      213: 21301776
+    second: explosion 4_888
+  - first:
+      213: 21301778
+    second: explosion 4_889
+  - first:
+      213: 21301780
+    second: explosion 4_890
+  - first:
+      213: 21301782
+    second: explosion 4_891
+  - first:
+      213: 21301784
+    second: explosion 4_892
+  - first:
+      213: 21301786
+    second: explosion 4_893
+  - first:
+      213: 21301788
+    second: explosion 4_894
+  - first:
+      213: 21301790
+    second: explosion 4_895
+  - first:
+      213: 21301792
+    second: explosion 4_896
+  - first:
+      213: 21301794
+    second: explosion 4_897
+  - first:
+      213: 21301796
+    second: explosion 4_898
+  - first:
+      213: 21301798
+    second: explosion 4_899
+  - first:
+      213: 21301800
+    second: explosion 4_900
+  - first:
+      213: 21301802
+    second: explosion 4_901
+  - first:
+      213: 21301804
+    second: explosion 4_902
+  - first:
+      213: 21301806
+    second: explosion 4_903
+  - first:
+      213: 21301808
+    second: explosion 4_904
+  - first:
+      213: 21301810
+    second: explosion 4_905
+  - first:
+      213: 21301812
+    second: explosion 4_906
+  - first:
+      213: 21301814
+    second: explosion 4_907
+  - first:
+      213: 21301816
+    second: explosion 4_908
+  - first:
+      213: 21301818
+    second: explosion 4_909
+  - first:
+      213: 21301820
+    second: explosion 4_910
+  - first:
+      213: 21301822
+    second: explosion 4_911
+  - first:
+      213: 21301824
+    second: explosion 4_912
+  - first:
+      213: 21301826
+    second: explosion 4_913
+  - first:
+      213: 21301828
+    second: explosion 4_914
+  - first:
+      213: 21301830
+    second: explosion 4_915
+  - first:
+      213: 21301832
+    second: explosion 4_916
+  - first:
+      213: 21301834
+    second: explosion 4_917
+  - first:
+      213: 21301836
+    second: explosion 4_918
+  - first:
+      213: 21301838
+    second: explosion 4_919
+  - first:
+      213: 21301840
+    second: explosion 4_920
+  - first:
+      213: 21301842
+    second: explosion 4_921
+  - first:
+      213: 21301844
+    second: explosion 4_922
+  - first:
+      213: 21301846
+    second: explosion 4_923
+  - first:
+      213: 21301848
+    second: explosion 4_924
+  - first:
+      213: 21301850
+    second: explosion 4_925
+  - first:
+      213: 21301852
+    second: explosion 4_926
+  - first:
+      213: 21301854
+    second: explosion 4_927
+  - first:
+      213: 21301856
+    second: explosion 4_928
+  - first:
+      213: 21301858
+    second: explosion 4_929
+  - first:
+      213: 21301860
+    second: explosion 4_930
+  - first:
+      213: 21301862
+    second: explosion 4_931
+  - first:
+      213: 21301864
+    second: explosion 4_932
+  - first:
+      213: 21301866
+    second: explosion 4_933
+  - first:
+      213: 21301868
+    second: explosion 4_934
+  - first:
+      213: 21301870
+    second: explosion 4_935
+  - first:
+      213: 21301872
+    second: explosion 4_936
+  - first:
+      213: 21301874
+    second: explosion 4_937
+  - first:
+      213: 21301876
+    second: explosion 4_938
+  - first:
+      213: 21301878
+    second: explosion 4_939
+  - first:
+      213: 21301880
+    second: explosion 4_940
+  - first:
+      213: 21301882
+    second: explosion 4_941
+  - first:
+      213: 21301884
+    second: explosion 4_942
+  - first:
+      213: 21301886
+    second: explosion 4_943
+  - first:
+      213: 21301888
+    second: explosion 4_944
+  - first:
+      213: 21301890
+    second: explosion 4_945
+  - first:
+      213: 21301892
+    second: explosion 4_946
+  - first:
+      213: 21301894
+    second: explosion 4_947
+  - first:
+      213: 21301896
+    second: explosion 4_948
+  - first:
+      213: 21301898
+    second: explosion 4_949
+  - first:
+      213: 21301900
+    second: explosion 4_950
+  - first:
+      213: 21301902
+    second: explosion 4_951
+  - first:
+      213: 21301904
+    second: explosion 4_952
+  - first:
+      213: 21301906
+    second: explosion 4_953
+  - first:
+      213: 21301908
+    second: explosion 4_954
+  - first:
+      213: 21301910
+    second: explosion 4_955
+  - first:
+      213: 21301912
+    second: explosion 4_956
+  - first:
+      213: 21301914
+    second: explosion 4_957
+  - first:
+      213: 21301916
+    second: explosion 4_958
+  - first:
+      213: 21301918
+    second: explosion 4_959
+  - first:
+      213: 21301920
+    second: explosion 4_960
+  - first:
+      213: 21301922
+    second: explosion 4_961
+  - first:
+      213: 21301924
+    second: explosion 4_962
+  - first:
+      213: 21301926
+    second: explosion 4_963
+  - first:
+      213: 21301928
+    second: explosion 4_964
+  - first:
+      213: 21301930
+    second: explosion 4_965
+  - first:
+      213: 21301932
+    second: explosion 4_966
+  - first:
+      213: 21301934
+    second: explosion 4_967
+  - first:
+      213: 21301936
+    second: explosion 4_968
+  - first:
+      213: 21301938
+    second: explosion 4_969
+  - first:
+      213: 21301940
+    second: explosion 4_970
+  - first:
+      213: 21301942
+    second: explosion 4_971
+  - first:
+      213: 21301944
+    second: explosion 4_972
+  - first:
+      213: 21301946
+    second: explosion 4_973
+  - first:
+      213: 21301948
+    second: explosion 4_974
+  - first:
+      213: 21301950
+    second: explosion 4_975
+  - first:
+      213: 21301952
+    second: explosion 4_976
+  - first:
+      213: 21301954
+    second: explosion 4_977
+  - first:
+      213: 21301956
+    second: explosion 4_978
+  - first:
+      213: 21301958
+    second: explosion 4_979
+  - first:
+      213: 21301960
+    second: explosion 4_980
+  - first:
+      213: 21301962
+    second: explosion 4_981
+  - first:
+      213: 21301964
+    second: explosion 4_982
+  - first:
+      213: 21301966
+    second: explosion 4_983
+  - first:
+      213: 21301968
+    second: explosion 4_984
+  - first:
+      213: 21301970
+    second: explosion 4_985
+  - first:
+      213: 21301972
+    second: explosion 4_986
+  - first:
+      213: 21301974
+    second: explosion 4_987
+  - first:
+      213: 21301976
+    second: explosion 4_988
+  - first:
+      213: 21301978
+    second: explosion 4_989
+  - first:
+      213: 21301980
+    second: explosion 4_990
+  - first:
+      213: 21301982
+    second: explosion 4_991
+  - first:
+      213: 21301984
+    second: explosion 4_992
+  - first:
+      213: 21301986
+    second: explosion 4_993
+  - first:
+      213: 21301988
+    second: explosion 4_994
+  - first:
+      213: 21301990
+    second: explosion 4_995
+  - first:
+      213: 21301992
+    second: explosion 4_996
+  - first:
+      213: 21301994
+    second: explosion 4_997
+  - first:
+      213: 21301996
+    second: explosion 4_998
+  - first:
+      213: 21301998
+    second: explosion 4_999
+  - first:
+      213: 21302000
+    second: explosion 4_1000
+  - first:
+      213: 21302002
+    second: explosion 4_1001
+  - first:
+      213: 21302004
+    second: explosion 4_1002
+  - first:
+      213: 21302006
+    second: explosion 4_1003
+  - first:
+      213: 21302008
+    second: explosion 4_1004
+  - first:
+      213: 21302010
+    second: explosion 4_1005
+  - first:
+      213: 21302012
+    second: explosion 4_1006
+  - first:
+      213: 21302014
+    second: explosion 4_1007
+  - first:
+      213: 21302016
+    second: explosion 4_1008
+  - first:
+      213: 21302018
+    second: explosion 4_1009
+  - first:
+      213: 21302020
+    second: explosion 4_1010
+  - first:
+      213: 21302022
+    second: explosion 4_1011
+  - first:
+      213: 21302024
+    second: explosion 4_1012
+  - first:
+      213: 21302026
+    second: explosion 4_1013
+  - first:
+      213: 21302028
+    second: explosion 4_1014
+  - first:
+      213: 21302030
+    second: explosion 4_1015
+  - first:
+      213: 21302032
+    second: explosion 4_1016
+  - first:
+      213: 21302034
+    second: explosion 4_1017
+  - first:
+      213: 21302036
+    second: explosion 4_1018
+  - first:
+      213: 21302038
+    second: explosion 4_1019
+  - first:
+      213: 21302040
+    second: explosion 4_1020
+  - first:
+      213: 21302042
+    second: explosion 4_1021
+  - first:
+      213: 21302044
+    second: explosion 4_1022
+  - first:
+      213: 21302046
+    second: explosion 4_1023
+  - first:
+      213: 21302048
+    second: explosion 4_1024
+  - first:
+      213: 21302050
+    second: explosion 4_1025
+  - first:
+      213: 21302052
+    second: explosion 4_1026
+  - first:
+      213: 21302054
+    second: explosion 4_1027
+  - first:
+      213: 21302056
+    second: explosion 4_1028
+  - first:
+      213: 21302058
+    second: explosion 4_1029
+  - first:
+      213: 21302060
+    second: explosion 4_1030
+  - first:
+      213: 21302062
+    second: explosion 4_1031
+  - first:
+      213: 21302064
+    second: explosion 4_1032
+  - first:
+      213: 21302066
+    second: explosion 4_1033
+  - first:
+      213: 21302068
+    second: explosion 4_1034
+  - first:
+      213: 21302070
+    second: explosion 4_1035
+  - first:
+      213: 21302072
+    second: explosion 4_1036
+  - first:
+      213: 21302074
+    second: explosion 4_1037
+  - first:
+      213: 21302076
+    second: explosion 4_1038
+  - first:
+      213: 21302078
+    second: explosion 4_1039
+  - first:
+      213: 21302080
+    second: explosion 4_1040
+  - first:
+      213: 21302082
+    second: explosion 4_1041
+  - first:
+      213: 21302084
+    second: explosion 4_1042
+  - first:
+      213: 21302086
+    second: explosion 4_1043
+  - first:
+      213: 21302088
+    second: explosion 4_1044
+  - first:
+      213: 21302090
+    second: explosion 4_1045
+  - first:
+      213: 21302092
+    second: explosion 4_1046
+  - first:
+      213: 21302094
+    second: explosion 4_1047
+  - first:
+      213: 21302096
+    second: explosion 4_1048
+  - first:
+      213: 21302098
+    second: explosion 4_1049
+  - first:
+      213: 21302100
+    second: explosion 4_1050
+  - first:
+      213: 21302102
+    second: explosion 4_1051
+  - first:
+      213: 21302104
+    second: explosion 4_1052
+  - first:
+      213: 21302106
+    second: explosion 4_1053
+  - first:
+      213: 21302108
+    second: explosion 4_1054
+  - first:
+      213: 21302110
+    second: explosion 4_1055
+  - first:
+      213: 21302112
+    second: explosion 4_1056
+  - first:
+      213: 21302114
+    second: explosion 4_1057
+  - first:
+      213: 21302116
+    second: explosion 4_1058
+  - first:
+      213: 21302118
+    second: explosion 4_1059
+  - first:
+      213: 21302120
+    second: explosion 4_1060
+  - first:
+      213: 21302122
+    second: explosion 4_1061
+  - first:
+      213: 21302124
+    second: explosion 4_1062
+  - first:
+      213: 21302126
+    second: explosion 4_1063
+  - first:
+      213: 21302128
+    second: explosion 4_1064
+  - first:
+      213: 21302130
+    second: explosion 4_1065
+  - first:
+      213: 21302132
+    second: explosion 4_1066
+  - first:
+      213: 21302134
+    second: explosion 4_1067
+  - first:
+      213: 21302136
+    second: explosion 4_1068
+  - first:
+      213: 21302138
+    second: explosion 4_1069
+  - first:
+      213: 21302140
+    second: explosion 4_1070
+  - first:
+      213: 21302142
+    second: explosion 4_1071
+  - first:
+      213: 21302144
+    second: explosion 4_1072
+  - first:
+      213: 21302146
+    second: explosion 4_1073
+  - first:
+      213: 21302148
+    second: explosion 4_1074
+  - first:
+      213: 21302150
+    second: explosion 4_1075
+  - first:
+      213: 21302152
+    second: explosion 4_1076
+  - first:
+      213: 21302154
+    second: explosion 4_1077
+  - first:
+      213: 21302156
+    second: explosion 4_1078
+  - first:
+      213: 21302158
+    second: explosion 4_1079
+  - first:
+      213: 21302160
+    second: explosion 4_1080
+  - first:
+      213: 21302162
+    second: explosion 4_1081
+  - first:
+      213: 21302164
+    second: explosion 4_1082
+  - first:
+      213: 21302166
+    second: explosion 4_1083
+  - first:
+      213: 21302168
+    second: explosion 4_1084
+  - first:
+      213: 21302170
+    second: explosion 4_1085
+  - first:
+      213: 21302172
+    second: explosion 4_1086
+  - first:
+      213: 21302174
+    second: explosion 4_1087
+  - first:
+      213: 21302176
+    second: explosion 4_1088
+  - first:
+      213: 21302178
+    second: explosion 4_1089
+  - first:
+      213: 21302180
+    second: explosion 4_1090
+  - first:
+      213: 21302182
+    second: explosion 4_1091
+  - first:
+      213: 21302184
+    second: explosion 4_1092
+  - first:
+      213: 21302186
+    second: explosion 4_1093
+  - first:
+      213: 21302188
+    second: explosion 4_1094
+  - first:
+      213: 21302190
+    second: explosion 4_1095
+  - first:
+      213: 21302192
+    second: explosion 4_1096
+  - first:
+      213: 21302194
+    second: explosion 4_1097
+  - first:
+      213: 21302196
+    second: explosion 4_1098
+  - first:
+      213: 21302198
+    second: explosion 4_1099
+  - first:
+      213: 21302200
+    second: explosion 4_1100
+  - first:
+      213: 21302202
+    second: explosion 4_1101
+  - first:
+      213: 21302204
+    second: explosion 4_1102
+  - first:
+      213: 21302206
+    second: explosion 4_1103
+  - first:
+      213: 21302208
+    second: explosion 4_1104
+  - first:
+      213: 21302210
+    second: explosion 4_1105
+  - first:
+      213: 21302212
+    second: explosion 4_1106
+  - first:
+      213: 21302214
+    second: explosion 4_1107
+  - first:
+      213: 21302216
+    second: explosion 4_1108
+  - first:
+      213: 21302218
+    second: explosion 4_1109
+  - first:
+      213: 21302220
+    second: explosion 4_1110
+  - first:
+      213: 21302222
+    second: explosion 4_1111
+  - first:
+      213: 21302224
+    second: explosion 4_1112
+  - first:
+      213: 21302226
+    second: explosion 4_1113
+  - first:
+      213: 21302228
+    second: explosion 4_1114
+  - first:
+      213: 21302230
+    second: explosion 4_1115
+  - first:
+      213: 21302232
+    second: explosion 4_1116
+  - first:
+      213: 21302234
+    second: explosion 4_1117
+  - first:
+      213: 21302236
+    second: explosion 4_1118
+  - first:
+      213: 21302238
+    second: explosion 4_1119
+  - first:
+      213: 21302240
+    second: explosion 4_1120
+  - first:
+      213: 21302242
+    second: explosion 4_1121
+  - first:
+      213: 21302244
+    second: explosion 4_1122
+  - first:
+      213: 21302246
+    second: explosion 4_1123
+  - first:
+      213: 21302248
+    second: explosion 4_1124
+  - first:
+      213: 21302250
+    second: explosion 4_1125
+  - first:
+      213: 21302252
+    second: explosion 4_1126
+  - first:
+      213: 21302254
+    second: explosion 4_1127
+  - first:
+      213: 21302256
+    second: explosion 4_1128
+  - first:
+      213: 21302258
+    second: explosion 4_1129
+  - first:
+      213: 21302260
+    second: explosion 4_1130
+  - first:
+      213: 21302262
+    second: explosion 4_1131
+  - first:
+      213: 21302264
+    second: explosion 4_1132
+  - first:
+      213: 21302266
+    second: explosion 4_1133
+  - first:
+      213: 21302268
+    second: explosion 4_1134
+  - first:
+      213: 21302270
+    second: explosion 4_1135
+  - first:
+      213: 21302272
+    second: explosion 4_1136
+  - first:
+      213: 21302274
+    second: explosion 4_1137
+  - first:
+      213: 21302276
+    second: explosion 4_1138
+  - first:
+      213: 21302278
+    second: explosion 4_1139
+  - first:
+      213: 21302280
+    second: explosion 4_1140
+  - first:
+      213: 21302282
+    second: explosion 4_1141
+  - first:
+      213: 21302284
+    second: explosion 4_1142
+  - first:
+      213: 21302286
+    second: explosion 4_1143
+  - first:
+      213: 21302288
+    second: explosion 4_1144
+  - first:
+      213: 21302290
+    second: explosion 4_1145
+  - first:
+      213: 21302292
+    second: explosion 4_1146
+  - first:
+      213: 21302294
+    second: explosion 4_1147
+  - first:
+      213: 21302296
+    second: explosion 4_1148
+  - first:
+      213: 21302298
+    second: explosion 4_1149
+  - first:
+      213: 21302300
+    second: explosion 4_1150
+  - first:
+      213: 21302302
+    second: explosion 4_1151
+  - first:
+      213: 21302304
+    second: explosion 4_1152
+  - first:
+      213: 21302306
+    second: explosion 4_1153
+  - first:
+      213: 21302308
+    second: explosion 4_1154
+  - first:
+      213: 21302310
+    second: explosion 4_1155
+  - first:
+      213: 21302312
+    second: explosion 4_1156
+  - first:
+      213: 21302314
+    second: explosion 4_1157
+  - first:
+      213: 21302316
+    second: explosion 4_1158
+  - first:
+      213: 21302318
+    second: explosion 4_1159
+  - first:
+      213: 21302320
+    second: explosion 4_1160
+  - first:
+      213: 21302322
+    second: explosion 4_1161
+  - first:
+      213: 21302324
+    second: explosion 4_1162
+  - first:
+      213: 21302326
+    second: explosion 4_1163
+  - first:
+      213: 21302328
+    second: explosion 4_1164
+  - first:
+      213: 21302330
+    second: explosion 4_1165
+  - first:
+      213: 21302332
+    second: explosion 4_1166
+  - first:
+      213: 21302334
+    second: explosion 4_1167
+  - first:
+      213: 21302336
+    second: explosion 4_1168
+  - first:
+      213: 21302338
+    second: explosion 4_1169
+  - first:
+      213: 21302340
+    second: explosion 4_1170
+  - first:
+      213: 21302342
+    second: explosion 4_1171
+  - first:
+      213: 21302344
+    second: explosion 4_1172
+  - first:
+      213: 21302346
+    second: explosion 4_1173
+  - first:
+      213: 21302348
+    second: explosion 4_1174
+  - first:
+      213: 21302350
+    second: explosion 4_1175
+  - first:
+      213: 21302352
+    second: explosion 4_1176
+  - first:
+      213: 21302354
+    second: explosion 4_1177
+  - first:
+      213: 21302356
+    second: explosion 4_1178
+  - first:
+      213: 21302358
+    second: explosion 4_1179
+  - first:
+      213: 21302360
+    second: explosion 4_1180
+  - first:
+      213: 21302362
+    second: explosion 4_1181
+  - first:
+      213: 21302364
+    second: explosion 4_1182
+  - first:
+      213: 21302366
+    second: explosion 4_1183
+  - first:
+      213: 21302368
+    second: explosion 4_1184
+  - first:
+      213: 21302370
+    second: explosion 4_1185
+  - first:
+      213: 21302372
+    second: explosion 4_1186
+  - first:
+      213: 21302374
+    second: explosion 4_1187
+  - first:
+      213: 21302376
+    second: explosion 4_1188
+  - first:
+      213: 21302378
+    second: explosion 4_1189
+  - first:
+      213: 21302380
+    second: explosion 4_1190
+  - first:
+      213: 21302382
+    second: explosion 4_1191
+  - first:
+      213: 21302384
+    second: explosion 4_1192
+  - first:
+      213: 21302386
+    second: explosion 4_1193
+  - first:
+      213: 21302388
+    second: explosion 4_1194
+  - first:
+      213: 21302390
+    second: explosion 4_1195
+  - first:
+      213: 21302392
+    second: explosion 4_1196
+  - first:
+      213: 21302394
+    second: explosion 4_1197
+  - first:
+      213: 21302396
+    second: explosion 4_1198
+  - first:
+      213: 21302398
+    second: explosion 4_1199
+  - first:
+      213: 21302400
+    second: explosion 4_1200
+  - first:
+      213: 21302402
+    second: explosion 4_1201
+  - first:
+      213: 21302404
+    second: explosion 4_1202
+  - first:
+      213: 21302406
+    second: explosion 4_1203
+  - first:
+      213: 21302408
+    second: explosion 4_1204
+  - first:
+      213: 21302410
+    second: explosion 4_1205
+  - first:
+      213: 21302412
+    second: explosion 4_1206
+  - first:
+      213: 21302414
+    second: explosion 4_1207
+  - first:
+      213: 21302416
+    second: explosion 4_1208
+  - first:
+      213: 21302418
+    second: explosion 4_1209
+  - first:
+      213: 21302420
+    second: explosion 4_1210
+  - first:
+      213: 21302422
+    second: explosion 4_1211
+  - first:
+      213: 21302424
+    second: explosion 4_1212
+  - first:
+      213: 21302426
+    second: explosion 4_1213
+  - first:
+      213: 21302428
+    second: explosion 4_1214
+  - first:
+      213: 21302430
+    second: explosion 4_1215
+  - first:
+      213: 21302432
+    second: explosion 4_1216
+  - first:
+      213: 21302434
+    second: explosion 4_1217
+  - first:
+      213: 21302436
+    second: explosion 4_1218
+  - first:
+      213: 21302438
+    second: explosion 4_1219
+  - first:
+      213: 21302440
+    second: explosion 4_1220
+  - first:
+      213: 21302442
+    second: explosion 4_1221
+  - first:
+      213: 21302444
+    second: explosion 4_1222
+  - first:
+      213: 21302446
+    second: explosion 4_1223
+  - first:
+      213: 21302448
+    second: explosion 4_1224
+  - first:
+      213: 21302450
+    second: explosion 4_1225
+  - first:
+      213: 21302452
+    second: explosion 4_1226
+  - first:
+      213: 21302454
+    second: explosion 4_1227
+  - first:
+      213: 21302456
+    second: explosion 4_1228
+  - first:
+      213: 21302458
+    second: explosion 4_1229
+  - first:
+      213: 21302460
+    second: explosion 4_1230
+  - first:
+      213: 21302462
+    second: explosion 4_1231
+  - first:
+      213: 21302464
+    second: explosion 4_1232
+  - first:
+      213: 21302466
+    second: explosion 4_1233
+  - first:
+      213: 21302468
+    second: explosion 4_1234
+  - first:
+      213: 21302470
+    second: explosion 4_1235
+  - first:
+      213: 21302472
+    second: explosion 4_1236
+  - first:
+      213: 21302474
+    second: explosion 4_1237
+  - first:
+      213: 21302476
+    second: explosion 4_1238
+  - first:
+      213: 21302478
+    second: explosion 4_1239
+  - first:
+      213: 21302480
+    second: explosion 4_1240
+  - first:
+      213: 21302482
+    second: explosion 4_1241
+  - first:
+      213: 21302484
+    second: explosion 4_1242
+  - first:
+      213: 21302486
+    second: explosion 4_1243
+  - first:
+      213: 21302488
+    second: explosion 4_1244
+  - first:
+      213: 21302490
+    second: explosion 4_1245
+  - first:
+      213: 21302492
+    second: explosion 4_1246
+  - first:
+      213: 21302494
+    second: explosion 4_1247
+  - first:
+      213: 21302496
+    second: explosion 4_1248
+  - first:
+      213: 21302498
+    second: explosion 4_1249
+  - first:
+      213: 21302500
+    second: explosion 4_1250
+  - first:
+      213: 21302502
+    second: explosion 4_1251
+  - first:
+      213: 21302504
+    second: explosion 4_1252
+  - first:
+      213: 21302506
+    second: explosion 4_1253
+  - first:
+      213: 21302508
+    second: explosion 4_1254
+  - first:
+      213: 21302510
+    second: explosion 4_1255
+  - first:
+      213: 21302512
+    second: explosion 4_1256
+  - first:
+      213: 21302514
+    second: explosion 4_1257
+  - first:
+      213: 21302516
+    second: explosion 4_1258
+  - first:
+      213: 21302518
+    second: explosion 4_1259
+  - first:
+      213: 21302520
+    second: explosion 4_1260
+  - first:
+      213: 21302522
+    second: explosion 4_1261
+  - first:
+      213: 21302524
+    second: explosion 4_1262
+  - first:
+      213: 21302526
+    second: explosion 4_1263
+  - first:
+      213: 21302528
+    second: explosion 4_1264
+  - first:
+      213: 21302530
+    second: explosion 4_1265
+  - first:
+      213: 21302532
+    second: explosion 4_1266
+  - first:
+      213: 21302534
+    second: explosion 4_1267
+  - first:
+      213: 21302536
+    second: explosion 4_1268
+  - first:
+      213: 21302538
+    second: explosion 4_1269
+  - first:
+      213: 21302540
+    second: explosion 4_1270
+  - first:
+      213: 21302542
+    second: explosion 4_1271
+  - first:
+      213: 21302544
+    second: explosion 4_1272
+  - first:
+      213: 21302546
+    second: explosion 4_1273
+  - first:
+      213: 21302548
+    second: explosion 4_1274
+  - first:
+      213: 21302550
+    second: explosion 4_1275
+  - first:
+      213: 21302552
+    second: explosion 4_1276
+  - first:
+      213: 21302554
+    second: explosion 4_1277
+  - first:
+      213: 21302556
+    second: explosion 4_1278
+  - first:
+      213: 21302558
+    second: explosion 4_1279
+  - first:
+      213: 21302560
+    second: explosion 4_1280
+  - first:
+      213: 21302562
+    second: explosion 4_1281
+  - first:
+      213: 21302564
+    second: explosion 4_1282
+  - first:
+      213: 21302566
+    second: explosion 4_1283
+  - first:
+      213: 21302568
+    second: explosion 4_1284
+  - first:
+      213: 21302570
+    second: explosion 4_1285
+  - first:
+      213: 21302572
+    second: explosion 4_1286
+  - first:
+      213: 21302574
+    second: explosion 4_1287
+  - first:
+      213: 21302576
+    second: explosion 4_1288
+  - first:
+      213: 21302578
+    second: explosion 4_1289
+  - first:
+      213: 21302580
+    second: explosion 4_1290
+  - first:
+      213: 21302582
+    second: explosion 4_1291
+  - first:
+      213: 21302584
+    second: explosion 4_1292
+  - first:
+      213: 21302586
+    second: explosion 4_1293
+  - first:
+      213: 21302588
+    second: explosion 4_1294
+  - first:
+      213: 21302590
+    second: explosion 4_1295
+  - first:
+      213: 21302592
+    second: explosion 4_1296
+  - first:
+      213: 21302594
+    second: explosion 4_1297
+  - first:
+      213: 21302596
+    second: explosion 4_1298
+  - first:
+      213: 21302598
+    second: explosion 4_1299
+  - first:
+      213: 21302600
+    second: explosion 4_1300
+  - first:
+      213: 21302602
+    second: explosion 4_1301
+  - first:
+      213: 21302604
+    second: explosion 4_1302
+  - first:
+      213: 21302606
+    second: explosion 4_1303
+  - first:
+      213: 21302608
+    second: explosion 4_1304
+  - first:
+      213: 21302610
+    second: explosion 4_1305
+  - first:
+      213: 21302612
+    second: explosion 4_1306
+  - first:
+      213: 21302614
+    second: explosion 4_1307
+  - first:
+      213: 21302616
+    second: explosion 4_1308
+  - first:
+      213: 21302618
+    second: explosion 4_1309
+  - first:
+      213: 21302620
+    second: explosion 4_1310
+  - first:
+      213: 21302622
+    second: explosion 4_1311
+  - first:
+      213: 21302624
+    second: explosion 4_1312
+  - first:
+      213: 21302626
+    second: explosion 4_1313
+  - first:
+      213: 21302628
+    second: explosion 4_1314
+  - first:
+      213: 21302630
+    second: explosion 4_1315
+  - first:
+      213: 21302632
+    second: explosion 4_1316
+  - first:
+      213: 21302634
+    second: explosion 4_1317
+  - first:
+      213: 21302636
+    second: explosion 4_1318
+  - first:
+      213: 21302638
+    second: explosion 4_1319
+  - first:
+      213: 21302640
+    second: explosion 4_1320
+  - first:
+      213: 21302642
+    second: explosion 4_1321
+  - first:
+      213: 21302644
+    second: explosion 4_1322
+  - first:
+      213: 21302646
+    second: explosion 4_1323
+  - first:
+      213: 21302648
+    second: explosion 4_1324
+  - first:
+      213: 21302650
+    second: explosion 4_1325
+  - first:
+      213: 21302652
+    second: explosion 4_1326
+  - first:
+      213: 21302654
+    second: explosion 4_1327
+  - first:
+      213: 21302656
+    second: explosion 4_1328
+  - first:
+      213: 21302658
+    second: explosion 4_1329
+  - first:
+      213: 21302660
+    second: explosion 4_1330
+  - first:
+      213: 21302662
+    second: explosion 4_1331
+  - first:
+      213: 21302664
+    second: explosion 4_1332
+  - first:
+      213: 21302666
+    second: explosion 4_1333
+  - first:
+      213: 21302668
+    second: explosion 4_1334
+  - first:
+      213: 21302670
+    second: explosion 4_1335
+  - first:
+      213: 21302672
+    second: explosion 4_1336
+  - first:
+      213: 21302674
+    second: explosion 4_1337
+  - first:
+      213: 21302676
+    second: explosion 4_1338
+  - first:
+      213: 21302678
+    second: explosion 4_1339
+  - first:
+      213: 21302680
+    second: explosion 4_1340
+  - first:
+      213: 21302682
+    second: explosion 4_1341
+  - first:
+      213: 21302684
+    second: explosion 4_1342
+  - first:
+      213: 21302686
+    second: explosion 4_1343
+  - first:
+      213: 21302688
+    second: explosion 4_1344
+  - first:
+      213: 21302690
+    second: explosion 4_1345
+  - first:
+      213: 21302692
+    second: explosion 4_1346
+  - first:
+      213: 21302694
+    second: explosion 4_1347
+  - first:
+      213: 21302696
+    second: explosion 4_1348
+  - first:
+      213: 21302698
+    second: explosion 4_1349
+  - first:
+      213: 21302700
+    second: explosion 4_1350
+  - first:
+      213: 21302702
+    second: explosion 4_1351
+  - first:
+      213: 21302704
+    second: explosion 4_1352
+  - first:
+      213: 21302706
+    second: explosion 4_1353
+  - first:
+      213: 21302708
+    second: explosion 4_1354
+  - first:
+      213: 21302710
+    second: explosion 4_1355
+  - first:
+      213: 21302712
+    second: explosion 4_1356
+  - first:
+      213: 21302714
+    second: explosion 4_1357
+  - first:
+      213: 21302716
+    second: explosion 4_1358
+  - first:
+      213: 21302718
+    second: explosion 4_1359
+  - first:
+      213: 21302720
+    second: explosion 4_1360
+  - first:
+      213: 21302722
+    second: explosion 4_1361
+  - first:
+      213: 21302724
+    second: explosion 4_1362
+  - first:
+      213: 21302726
+    second: explosion 4_1363
+  - first:
+      213: 21302728
+    second: explosion 4_1364
+  - first:
+      213: 21302730
+    second: explosion 4_1365
+  - first:
+      213: 21302732
+    second: explosion 4_1366
+  - first:
+      213: 21302734
+    second: explosion 4_1367
+  - first:
+      213: 21302736
+    second: explosion 4_1368
+  - first:
+      213: 21302738
+    second: explosion 4_1369
+  - first:
+      213: 21302740
+    second: explosion 4_1370
+  - first:
+      213: 21302742
+    second: explosion 4_1371
+  - first:
+      213: 21302744
+    second: explosion 4_1372
+  - first:
+      213: 21302746
+    second: explosion 4_1373
+  - first:
+      213: 21302748
+    second: explosion 4_1374
+  - first:
+      213: 21302750
+    second: explosion 4_1375
+  - first:
+      213: 21302752
+    second: explosion 4_1376
+  - first:
+      213: 21302754
+    second: explosion 4_1377
+  - first:
+      213: 21302756
+    second: explosion 4_1378
+  - first:
+      213: 21302758
+    second: explosion 4_1379
+  - first:
+      213: 21302760
+    second: explosion 4_1380
+  - first:
+      213: 21302762
+    second: explosion 4_1381
+  - first:
+      213: 21302764
+    second: explosion 4_1382
+  - first:
+      213: 21302766
+    second: explosion 4_1383
+  - first:
+      213: 21302768
+    second: explosion 4_1384
+  - first:
+      213: 21302770
+    second: explosion 4_1385
+  - first:
+      213: 21302772
+    second: explosion 4_1386
+  - first:
+      213: 21302774
+    second: explosion 4_1387
+  - first:
+      213: 21302776
+    second: explosion 4_1388
+  - first:
+      213: 21302778
+    second: explosion 4_1389
+  - first:
+      213: 21302780
+    second: explosion 4_1390
+  - first:
+      213: 21302782
+    second: explosion 4_1391
+  - first:
+      213: 21302784
+    second: explosion 4_1392
+  - first:
+      213: 21302786
+    second: explosion 4_1393
+  - first:
+      213: 21302788
+    second: explosion 4_1394
+  - first:
+      213: 21302790
+    second: explosion 4_1395
+  - first:
+      213: 21302792
+    second: explosion 4_1396
+  - first:
+      213: 21302794
+    second: explosion 4_1397
+  - first:
+      213: 21302796
+    second: explosion 4_1398
+  - first:
+      213: 21302798
+    second: explosion 4_1399
+  - first:
+      213: 21302800
+    second: explosion 4_1400
+  - first:
+      213: 21302802
+    second: explosion 4_1401
+  - first:
+      213: 21302804
+    second: explosion 4_1402
+  - first:
+      213: 21302806
+    second: explosion 4_1403
+  - first:
+      213: 21302808
+    second: explosion 4_1404
+  - first:
+      213: 21302810
+    second: explosion 4_1405
+  - first:
+      213: 21302812
+    second: explosion 4_1406
+  - first:
+      213: 21302814
+    second: explosion 4_1407
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion 4_0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90259749bbde4d744b61e0bf9709744c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfca110206a5294c93482c5f2626ff9
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c469b42ebe803a4291a42184ecbc070
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_3
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e22aeee3efcc74598b80753baa5288
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1918362b868a846a161b6d224ac2a0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_5
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90ce6bd157fee0479aea5855625365d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_6
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7689559d70796c949b49889a02b45fdc
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827d8d7e6288dd489a9a2fc18199d27
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e01a0d22bf5f34eb266052d9c7f7e6
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2a05f1437cda045a1d0f9e32aff826
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6476a13f8fafd44fa8bc305e8ecb8b0
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_11
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26aeb39bd1644f49ad5ca6f21ea7f51
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_12
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2c0f52d086994f9c79084e1b1329b
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_13
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f876039c57319fe4fa5d2843e84e0dc2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5f126aaaaa1a94195c7898e77b4031
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc09300a8b7a03408779532689ea592
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831f7a142917e5a49af574f87ba6fd99
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb956746e9e19a47b32a97dc7056b50
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646087a3ae3c8e42b720f6437378409
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_19
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3264dff8c231edd438641cbdc5a14a3b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ec50be5be317341821360da30ee1f3
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_21
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f963d6551582c40ae5df04779ab108
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_22
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38982398c6f43948b533dbf3dfc34c0
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afb06af5b6ad984e96d9a12cdc5d4eb
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838440610d47bf7439a9a288518cb17a
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ab57756b43fae4893c7afd5f43186e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca9943e0fd744418ae0428d99f93ff
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_27
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fcc5b9dfda66f46a7806b08380a3e9
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_28
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c6bc6e216b65a4fbb800557c44db39
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_29
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903babaf110e0d1479469b488909652a
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_30
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278bda6f360b8ec49b8d6e862164ccdb
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15537c26e9bb42d4ca5e8e4d6931a28c
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac63c172dae5894598ab18d7403311a
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_33
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c01f8152176e7440bb98e71a149a635
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70232ca0afdef4db3b98f371da625c
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_35
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a29f0be63e85a240aa53e041e9d6246
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_36
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cf97ac1afd9954da6b983a8508676f
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_37
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52b5af862d0c274db99e2596395d345
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_38
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124d13021849a0419ab420f716fc101
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b325426e52a54c98bb21e8599ff9d
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ced576f618dcc4ca20f7ba8bfb1538
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fb2e8c2b2fcc741b78f2338b85fae3
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a3c0ab326a72d41acb030d1b2f847c
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_43
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bd2dbc22fa9f04ea2b30ae793a072e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_44
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f6b49c4e284f4cbe0bc38f58389cc
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_45
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc482cd3245384ba9de44f330aafd1
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_46
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffd3df3f52cb984893f031d934fc3a3
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c45a40a3f0fa14c824cb9d00ec17d2
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3464aceb10b3040b585c89d280e192
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_49
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102cd7119f6a5844ba66c6fc398b4d1d
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_50
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f3a068b98e53b42b9c60e0fc5e8855
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_51
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903f96c8a166bad49a5b8e34ba867a9d
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_52
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb01064643bdcc42bdd47dea7d63ad6
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_53
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ca253f162894449b3ca49e1643271
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_54
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0fab4a1dcb1c0469cfe5393f2298b4
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b465ef5051bb16408ce0941d8410219
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4cfdac1df73e48bfbc2e5ddbf3795
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af2b7373861e1741ad19de378025b76
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56cd8049774fb24083183f14e1ade03
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_59
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8ee78c0d7479d469a6a12b6af4d735
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_60
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afddb370b17ef14fbfab1f92f54b3b9
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_61
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c62527e1d954468e25ddf24f34351
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion 4_62
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72a4975be99fe540b9c62c9c0a6ba01
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 567cf8d365b699b428c4ff3e015622d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
